@@ -89,8 +89,7 @@ I’ve created a few quick insights to take a quick look before importing it int
 
 Essentially, I used Mysql to aggregate my table in order to gain valuable insights and observe how these two types of riders perform differently. Afterward, I will import the table into Power BI to create data visualizations and more.
 
-Data Visualization: [Power Bi](https://app.powerbi.com/groups/28d09f04-6661-4dff-8e66-a54fff7d4fb6/reports/6de24b8e-6b6c-4077-9692-ee84c1bf3be3/ReportSection?experience=power-bi).
-
+Data Visualization: [Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZWZlOTkyNWMtYmEwNy00MGE4LTlkM2UtOTJkNzBiM2U1NjEwIiwidCI6IjJjM2Q1MTBjLWE2YjktNGY5NS04ZjY0LWVhNmVlOTNkNGVlOSJ9)
 ### Insights:
 
 •	Distribution by rider Type
